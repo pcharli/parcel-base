@@ -2,7 +2,7 @@
   "xmlMode": true,
   "plugins": {
     "posthtml-include": {
-      "root": "./"
+      "root": "./src"
     }
   }
 }
